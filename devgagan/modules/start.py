@@ -73,8 +73,8 @@ help_pages = [
         "> Transfer premium to your beloved major purpose for resellers (Premium members only)\n\n"
         "4. **/get**\n"
         "> Get all user IDs (Owner only)\n\n"
-        "5. **/lock**\n"
-        "> Lock channel from extraction (Owner only)\n\n"
+        "5. **/token**\n"
+        "> generate free 3 hrs \n\n"
         "6. **/dl link**\n"
         "> Download videos (Not available in v3 if you are using)\n\n"
         "7. **/adl link**\n"
@@ -100,9 +100,11 @@ help_pages = [
         "> Cancel ongoing batch process\n\n"
         "16. **/myplan**\n"
         "> Get details about your plans\n\n"
-        "17. **/session**\n"
+        "17. **/lock**\n"
+        "> Lock channel from extraction (Owner only)\n\n"
+        "18. **/session**\n"
         "> Generate Pyrogram V2 session\n\n"
-        "18. **/settings**\n"
+        "19. **/settings**\n"
         "> 1. SETCHATID : To directly upload in channel or group or user's dm use it with -100[chatID]\n"
         "> 2. SETRENAME : To add custom rename tag or username of your channels\n"
         "> 3. CAPTION : To add custom caption\n"
@@ -110,6 +112,7 @@ help_pages = [
         "> 5. RESET : To set the things back to default\n\n"
         "> You can set CUSTOM THUMBNAIL, PDF WATERMARK, VIDEO WATERMARK, SESSION-based login, etc. from settings\n\n"
         "**__Powered by Team sonic__**"
+    
     )
 ]
  
